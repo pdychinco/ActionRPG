@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/22 - Dream.ogg-d4b09d4c44e82b44d5ab4cd8242e87bd.oggstr"
+
+[deps]
+
+source_file="res://Sprites/NinjaAdventure/Musics/22 - Dream.ogg"
+dest_files=[ "res://.import/22 - Dream.ogg-d4b09d4c44e82b44d5ab4cd8242e87bd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

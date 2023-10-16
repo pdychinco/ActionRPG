@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/3 - Revelation.ogg-5e8058c9d747cb3e7ef9b7f14ff29fbd.oggstr"
+
+[deps]
+
+source_file="res://Sprites/NinjaAdventure/Musics/3 - Revelation.ogg"
+dest_files=[ "res://.import/3 - Revelation.ogg-5e8058c9d747cb3e7ef9b7f14ff29fbd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

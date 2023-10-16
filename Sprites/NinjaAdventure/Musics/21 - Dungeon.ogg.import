@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/21 - Dungeon.ogg-af39ec9a00b6b8c621873dab10404f52.oggstr"
+
+[deps]
+
+source_file="res://Sprites/NinjaAdventure/Musics/21 - Dungeon.ogg"
+dest_files=[ "res://.import/21 - Dungeon.ogg-af39ec9a00b6b8c621873dab10404f52.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
